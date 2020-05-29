@@ -1,0 +1,7 @@
+{
+  "name": "marcadonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
